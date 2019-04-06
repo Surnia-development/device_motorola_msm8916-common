@@ -291,7 +291,7 @@ PRODUCT_PACKAGES += \
 
 # USB
 PRODUCT_PACKAGES += \
-    android.hardware.usb@1.0-service.harpia
+    android.hardware.usb@1.0-service.surnia
 
 # Vibrator
 PRODUCT_PACKAGES += \

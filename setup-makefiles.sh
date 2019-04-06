@@ -17,7 +17,7 @@
 #
 
 set -e
-DEVICE=harpia
+DEVICE=surnia
 DEVICE_COMMON=msm8916-common
 VENDOR=motorola
 export INITIAL_COPYRIGHT_YEAR=2016

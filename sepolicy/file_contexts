@@ -40,7 +40,7 @@
 /sys/devices/w1_bus_master1(/.*)?                           u:object_r:sysfs_w1_bus:s0
 
 # Usb
-/(vendor|system/vendor)/bin/hw/android\.hardware\.usb@1\.0-service\.harpia       u:object_r:hal_usb_default_exec:s0
+/(vendor|system/vendor)/bin/hw/android\.hardware\.usb@1\.0-service\.surnia       u:object_r:hal_usb_default_exec:s0
 
 # Vendor files
 /(vendor|system/vendor)/bin/awk                 u:object_r:vendor_shell_exec:s0

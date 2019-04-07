@@ -237,6 +237,7 @@ vendor/lib/vendor.qti.hardware.iop@2.0_vendor.so|970b024630c425de6a574b4652552b2
 
 # Sensors
 vendor/lib/hw/sensorhub.msm8916.so
+bin/stml0xx
 
 # STLport
 vendor/lib/libstlport.so
